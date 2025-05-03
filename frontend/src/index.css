@@ -1,0 +1,12 @@
+@import "tailwindcss";
+:root {
+  background-color: #242424;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+button:hover {
+  border-color: #646cff;
+}
